@@ -28,5 +28,5 @@
 ------------------
 
 ## ✉️ Contact:
-<rafa.celos.dev@gmail.com>
+<rafa.celos.dev@gmail.com></br>
 <a href="www.linkedin.com/in/rafaeloliveiradev"> Linkedin </a>
